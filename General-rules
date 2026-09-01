@@ -1,0 +1,55 @@
+# IT Support Knowledge Base
+
+## Purpose
+
+This repository contains generic IT support procedures, troubleshooting guidance, and operational instructions.
+
+No confidential, personal, customer, financial, or infrastructure-specific information may be stored in this repository.
+
+---
+
+## Approved Content
+
+- Troubleshooting procedures
+- Service desk workflows
+- Escalation guidelines
+- Application support guides
+- Vendor-neutral support instructions
+- Hardware support procedures
+- Printer troubleshooting
+- Ticket management processes
+- Operational best practices
+
+---
+
+## Restricted Content
+
+Do not store:
+
+- Passwords
+- MFA codes
+- API keys
+- Tokens
+- Private certificates
+- Employee information
+- Customer information
+- Financial information
+- Internal URLs
+- Internal server names
+- Internal hostnames
+- Internal IP addresses
+- VPN configurations
+- Security architecture
+- Database connection details
+- Confidential company information
+- Customer contracts
+- Supplier contracts
+- Project documentation
+
+---
+
+## Repository Rule
+
+If information would not be safe to publish publicly, it must not be added to this repository.
+
+When in doubt, do not publish it.
